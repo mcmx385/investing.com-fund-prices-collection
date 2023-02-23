@@ -1,0 +1,10 @@
+autopep8
+python-dotenv
+
+pandas
+numpy
+matplotlib
+
+yfinance
+selenium
+webdriver_manager
